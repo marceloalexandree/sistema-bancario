@@ -72,4 +72,5 @@ Este projeto foi desenvolvido para:
 
 **Marcelo Alexandre**
 Estudante de Ciências Atuariais e interessado em Ciência de Dados
-- LinkedIn : linkedin.com/in/marcelo-alexandre-filho/
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-alexandre-filho)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:marceloalexandrefilhoo@gmail.com)
